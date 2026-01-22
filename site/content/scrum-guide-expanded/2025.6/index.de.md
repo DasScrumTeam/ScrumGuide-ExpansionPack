@@ -204,7 +204,7 @@ Einzelne Mitglieder des Scrum Teams können die Scrum-Werte durch die Linse von 
 - Beobachten – Offenheit und Respekt können das Sammeln aller relevanten Informationen und unterschiedlicher Perspektiven fördern.
 - Orientieren – Mut ist erforderlich, um die Realität zu interpretieren, Unsicherheiten zu bewältigen und sich auf Anpassungen oder Kursänderungen einzulassen, möglicherweise unter Einlegen einer reflektierenden Pause, um Annahmen zu hinterfragen und neue Erkenntnisse zu gewinnen.
 - Entscheiden – Die Entscheidung, was zu tun ist, erfordert eine zeitnahe Analyse, z. B. die Verfeinerung des Backlogs, die Fokussierung auf potenzielle nächste Schritte durch parallele, fehlertolerante Experimente zur Überprüfung von Hypothesen, wie z. B. kleine Tests (Tests sollten klein, parallel und so konzipiert sein, dass ein Scheitern verkraftbar und aufschlussreich ist).
-- Handeln – Mit Klarheit darüber, was zu tun ist, warum und von wem, kann Engagement das Team dazu bringen, innerhalb von Rahmenbedingungen wie zeitlich begrenzten Sprints effektiv zu arbeiten und neue Lösungen zu entwickeln.
+- Handeln – Mit Klarheit darüber, was zu tun ist, warum und von wem, kann Engagement das Team dazu bringen, innerhalb von Rahmenbedingungen wie Sprints von bestimmter Länge effektiv zu arbeiten und neue Lösungen zu entwickeln.
 
 ## Weitere unterstützende und ergänzende Theorie {#more-supporting-and-complementary-theory}
 
@@ -269,15 +269,23 @@ First Principles Thinking ist eine Methode zur Problemlösung, bei der Herausfor
 
 Der Schwierigkeitsgrad bei der Einführung von Scrum sollte nicht unterschätzt werden. Scrum bietet durch seine Elemente einige Leitprinzipien. Es bietet einen Ansatz, um zu den Grundprinzipien zurückzukehren.
 
-Bei Scrum geht es nicht um die Einführung von Tools. Und Scrum endet nicht mit der Beseitigung von Hindernissen. Ein Hindernis in Scrum ist alles, was den Fortschritt blockiert oder verlangsamt. Es ist entscheidend, bewusst, unnachgiebig und beharrlich in Bezug auf Menschen, Veränderungen und Kommunikation zu sein. Die Veränderung umfasst oft die Entwicklung von Menschen, Designs, Arbeitsabläufe, Prozesse, Systeme, Einstellungen, Verhaltensweisen, Sprache, Gewohnheiten und das Arbeitsklima. Kultur ist ein sich herausbildendes Ergebnis.
+Bei Scrum geht es nicht um die Einführung von Tools, um kurzfristige Ergebnisse, die auf Kosten des langfristigen Wertes gehen. Fälschlicherweise konzentrieren sich Scrum-Praktiker oft nur auf die kurzfristige Beseitigung von Hindernissen. Scrum erfordert Change Agency, die ein Gleichgewicht zwischen kurzfristiger und langfristiger Planung herstellt.
 
-Eine effektive Einführung von Scrum nutzt einen emergenten Ansatz, verfügt über effektive Change Agents und bindet die Betroffenen und Einflussnehmer enthusiastisch ein. Zielstrebigkeit und tägliche Fortschritte bei der Einführung sind entscheidend; die Einführungsarbeit sollte nicht das Letzte sein, woran gearbeitet wird, nachdem alles andere fertig ist.
+Ein arbeitsbezogenes Problem in Scrum kann alles sein, was den Fortschritt blockiert oder verlangsamt, und wird oft durch das Selbstmanagement des Product Owners und der Product Developer gelöst. Ein Hindernis ist eine Art von Problem in Scrum und bezeichnet alles, was den Fortschritt blockiert oder verlangsamt und nicht von den Product Developern und dem Product Owner gelöst werden kann.
 
-Beginnen Sie mit disziplinierten, emergenten Veränderungen in eine bestimmte Richtung. Streben Sie danach, emergente Veränderungen so normal zu machen, dass sie schließlich Teil der geplanten Arbeit werden. Eine Scrum-Einführung hat eine Richtung, aber kein vordefiniertes Ziel. Die Veränderung ist emergent und daher nicht vorhersehbar. Neugierde ermöglicht ein Muster aus Wahrnehmen, Zuhören, Lernen und Anpassen in eine bestimmte Richtung. Es ist wichtig, Beziehungen zu pflegen, Perspektiven zu verstehen und auf das zu hören, was nicht gesagt wird und was nicht geschieht. Veränderung ist harte Arbeit, aber auch erfüllend.
+Es ist entscheidend, bewusst, unnachgiebig und beharrlich in Bezug auf Menschen, Veränderungen und Kommunikation zu sein. Die Veränderung umfasst oft die Entwicklung von Menschen, Designs, Arbeitsabläufe, Prozesse, Systeme, Einstellungen, Verhaltensweisen, Sprache, Gewohnheiten und das Arbeitsklima. Kultur ist ein sich herausbildendes Ergebnis.
+
+Eine effektive Einführung von Scrum nutzt einen emergenten Ansatz, verfügt über effektive Change Agents (einschließlich Unterstützern und anderen Führungskräften) und bindet die Betroffenen und Einflussnehmer enthusiastisch ein. Zielstrebigkeit und tägliche Fortschritte bei der Einführung sind entscheidend; die Einführungsarbeit sollte nicht das Letzte sein, woran gearbeitet wird, nachdem alles andere fertig ist.
+
+Beginnen Sie mit disziplinierten, emergenten Veränderungen in eine bestimmte Richtung. Bemühen Sie sich, emergente Veränderungen zur Normalität werden zu lassen; schließlich werden sie Teil der geplanten Arbeit. Eine Scrum-Einführung hat eine Richtung, aber kein vordefiniertes Ziel. Die Veränderung ist emergent und daher nicht vorhersehbar; ein Nordstern leuchtet den Weg, ist aber kein festes Ziel. Neugierde ermöglicht ein Muster aus Wahrnehmen, Zuhören, Lernen und Anpassen in eine bestimmte Richtung. Es ist wichtig, Beziehungen zu pflegen, Perspektiven zu verstehen und auf das zu hören, was nicht gesagt wird und was nicht geschieht. Veränderung ist harte Arbeit, aber auch erfüllend.
+
+Scrum-Praktiker und Unterstützer versuchen, keine Opfer zu sein und verlassen sich nicht darauf, dass andere sich ändern. Sie bemühen sich um kontinuierliche marginale Veränderungen, die in ihrem Einflussbereich liegen, und schaffen eine ständige positive Dynamik. Im Idealfall sind sie Katalysatoren des Wandels und strahlen realistische Positivität und Möglichkeiten aus.
 
 ## Die Scrum-Rollen im Erweiterungspaket {#the-scrum-roles-in-the-expansion-pack}
 
-Die vier Scrum-Rollen sind Produkt Owner, Product Developer, Scrum Master und Stakeholder. Sie geben, belohnen und verdienen Vertrauen und ermöglichen eine kohärente Führung. Nur die drei Verantwortlichkeiten Produkt Owner, Product Developer und Scrum Master gehören zum Scrum Team.
+[Scrum Guide 2020: „Das gesamte Scrum Team ist verantwortlich dafür, in jedem Sprint ein wertvolles, nützliches Inkrement zu schaffen. Scrum definiert drei spezifische Verantwortlichkeiten innerhalb des Scrum Teams: die Developers, den Product Owner und den Scrum Master." Eine Verantwortlichkeit ist eine Liste von Erwartungen, für die jemand verantwortlich ist, z.B. der Product Owner für den Wert, der Scrum Master für die Effektivität des Scrum Teams und die Developers für die Erstellung des nutzbaren Inkrements. Eine Rolle hat nicht unbedingt Verantwortlichkeiten.]
+
+Nicht alle Rollen haben Verantwortlichkeiten, z. B. Stakeholder. Die vier Scrum-Rollen sind Product Owner, Product Developer, Scrum Master und Stakeholder. Sie geben, belohnen und verdienen Vertrauen und ermöglichen eine kohärente Führung. Nur die drei Verantwortlichkeiten Product Owner, Product Developer und Scrum Master gehören zum Scrum Team.
 
 Eine Person kann mehr als eine Scrum-Rolle innehaben. Wenn man mehr als eine Rolle übernimmt, muss man darauf achten, dass man sich nicht überschreitet. Die Scrum-Rollen sind so konzipiert, dass sie gegenseitige Kontrollen und Ausgewogenheit gewährleisten.
 
@@ -628,9 +636,13 @@ Im Rahmen des Sprint-Ziels aktualisieren die Product Developer ihren Plan, sogar
 
 #### Verpflichtung: Sprint-Ziel {#commitment:-sprint-goal}
 
-Das Sprint-Ziel ist eine Verpflichtung, die vom Scrum Team erstellt wird und diesem gehört. Das Sprint-Ziel ist das einzige einheitliche Ziel des Sprints (das „Warum”) für die Product Developer, das in der Sprint-Planung erstellt wird. Die Erreichung des Sprint-Ziels ist eine Verpflichtung der Product Developer. Das Sprint-Backlog (einschließlich des „Warum”, des „Was” und oft auch des „Wie”) bietet Fokus und Flexibilität in Bezug auf die sich entwickelnde Arbeit und verbessert so die Transparenz.
+[Scrum Guide 2020: „... das Sprint-Ziel ist eine Verpflichtung der Developers ..."]
 
-Das Sprint-Ziel ermutigt das Scrum Team, zusammenzuarbeiten, anstatt an separaten Initiativen zu arbeiten. Wenn sich die Arbeit von den Erwartungen der Product Developer unterscheidet, arbeiten die Product Developer mit dem Produkt Owner zusammen, um innerhalb des Sprints Möglichkeiten auszuhandeln, ohne das Sprint-Ziel zu beeinträchtigen. Niemand sagt den Product Developern, wie sie ihre Arbeit dimensionieren oder ausführen sollen.
+Das Sprint-Ziel ist eine Verpflichtung, die vom Scrum Team erstellt wird und diesem gehört. Das Sprint-Ziel ist das einzige einheitliche Ziel (kohärent mit dem Produktziel) des Sprints (das „Warum") für die Product Developer, das in der Sprint-Planung erstellt wird. Die Erreichung des Sprint-Ziels ist eine Verpflichtung der Product Developer. Das Sprint-Backlog (einschließlich des „Warum", des „Was" und oft auch des „Wie") bietet Fokus und Flexibilität in Bezug auf die sich entwickelnde Arbeit und verbessert so die Transparenz.
+
+Das Sprint-Ziel ermutigt das Scrum Team, zusammenzuarbeiten, anstatt an separaten Initiativen zu arbeiten. Wenn sich die Arbeit von den Erwartungen der Product Developer unterscheidet, arbeiten die Product Developer mit dem Product Owner zusammen, um innerhalb des Sprints Möglichkeiten auszuhandeln, ohne das Sprint-Ziel zu beeinträchtigen. Niemand sagt den Product Developern, wie sie ihre Arbeit dimensionieren oder ausführen sollen.
+
+Wenn es mehrere Ziele gibt, kann es in Ordnung sein, solange sie mit dem Produktziel kohärent sind. Seien Sie vorsichtig. Berücksichtigen Sie den Kompromiss zwischen Kontextwechsel und Fokus. Das Scrum Team sollte sich bemühen, im Laufe der Zeit ein Gleichgewicht zu erreichen – ein Gleichgewicht zwischen den aktuellen Fähigkeiten und dem Klima im Team, dem aktuellen Wert für die Stakeholder, dem potenziellen Wert für die Stakeholder und der Zeit bis zur Wertschöpfung.
 
 ## Die Scrum-Ereignisse im Erweiterungspaket {#the-scrum-events-in-the-expansion-pack}
 
